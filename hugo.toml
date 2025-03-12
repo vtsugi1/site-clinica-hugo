@@ -42,19 +42,6 @@ theme = "PaperMod"
     url = "/supervisao/"
     weight = 3
 
-  # Seções comentadas até que o conteúdo seja criado
-  # [[menu.main]]
-  #   identifier = "acao-social"
-  #   name = "Ação Social"
-  #   url = "/acao-social/"
-  #   weight = 4
-
-  # [[menu.main]]
-  #   identifier = "grupos"
-  #   name = "Grupos Terapêuticos e Estudos"
-  #   url = "/grupos/"
-  #   weight = 5
-
   [[menu.main]]
     identifier = "contato"
     name = "Contato"
